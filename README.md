@@ -107,7 +107,7 @@ To copy the output from HDFS to your local machine:
 
 ## Sample Input: 
  ```bash
-   Hello Sai Phanindra.
+   Hello Avinash.
    This is Cloud Computing Class.
    You have to do Hadoop map reduce Hands on in the class.
    ```
@@ -116,7 +116,7 @@ To copy the output from HDFS to your local machine:
  ```bash
 class.	1
 Cloud	1
-Phanindra.	1
+Avinash.	1
 Hello	1
 This	1
 reduce	1
@@ -127,6 +127,5 @@ the	1
 have	1
 map	1
 Hands	1
-Sai	1
 You	1
    ```
